@@ -10,6 +10,8 @@ Abby Alerts!
 
 Abby simply navigates to a webapp on her phone or iPad. It looks like this:
 
+![screenshot 2017-05-21 20 30 49](https://cloud.githubusercontent.com/assets/57832/26291607/6639c65e-3e64-11e7-9b1f-cc802d1e884a.png)
+
 The webapp is tunneled using [ngrok](https://ngrok.com/) to this application running
 on T-$'s local desktop iMac.
 
